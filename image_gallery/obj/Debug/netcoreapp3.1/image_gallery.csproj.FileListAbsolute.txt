@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\bin\Debug\netcoreapp3.1\image_gallery.exe
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\bin\Debug\netcoreapp3.1\image_gallery.deps.json
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\bin\Debug\netcoreapp3.1\image_gallery.runtimeconfig.json
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\bin\Debug\netcoreapp3.1\image_gallery.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\bin\Debug\netcoreapp3.1\image_gallery.dll
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\bin\Debug\netcoreapp3.1\image_gallery.pdb
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.Form1.resources
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.dll
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.pdb
+C:\Users\ASUS\Desktop\Ject\asp.net core\galery\Image galaery\image_gallery\image_gallery\obj\Debug\netcoreapp3.1\image_gallery.genruntimeconfig.cache
